@@ -13,7 +13,7 @@
   ],
   "minimo": 4500,
   "outlet": {
-    "activo": false,
+    "activo": true,
     "mecanica": "1+1",
     "tramos": [
       {
